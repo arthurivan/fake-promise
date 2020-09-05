@@ -4,7 +4,7 @@
  */
 
 // Dependencies
-const FakePromise = require('./../lib/FakePromise.js')
+const FakePromise = require('./../lib/fakePromise.js')
 const assert = require('assert')
 
 // Application logic for the test runner
